@@ -80,17 +80,6 @@ Antes de programar em tempo integral passei por marketing, dei aula de inglês e
 
 ---
 
-```bash
-~/joao $ gh stats
-```
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joao-paulo-yudi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-paulo-yudi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353" />
-</div>
-
----
-
 <div align="center">
 
 ```bash
